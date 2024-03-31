@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "streetName": {
+      "type": "string"
+    },
+    "streetNumber": {
+      "type": "number"
+    }
+  }
+}
